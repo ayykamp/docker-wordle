@@ -11,7 +11,7 @@ More info can be found here: [Wordle](https://www.powerlanguage.co.uk/wordle/)
 Image is based on Nginx stable alpine, and all the content is local to the container.
 
 # Container Screenshot
-![image](https://user-images.githubusercontent.com/4349962/152651710-32fc8be9-b63a-47b3-b1f3-ec7baf0e34f8.png)
+![image](https://user-images.githubusercontent.com/32194363/153897306-c683ce0f-86a7-4821-af90-e4ec551e1599.png)
 
 
 # Configuration
